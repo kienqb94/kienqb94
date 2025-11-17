@@ -1,7 +1,7 @@
 # Link Download App Cũ
 
 • Chrome
-[ios 9](https://raw.githubusercontent.com/kienqb94/kienqb94/refs/heads/master/IPA-Installer/Shadow.plist)
+[ios 9](https://tinyurl.com/AbcaaaQ)
 
 • Youtube
 [ios 9](https://tinyurl.com/Youtubeios9-by-kien)
